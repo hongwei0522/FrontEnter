@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/everywhere", {data:[{}],fetch:{},mutations:void 0});

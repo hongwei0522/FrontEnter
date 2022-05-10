@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/southern", {data:[{}],fetch:{},mutations:void 0});
